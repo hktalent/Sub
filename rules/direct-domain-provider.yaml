@@ -1,0 +1,4 @@
+payload:
+  - 'www.baidu.com'
+  - '*.microsoft.com'
+  - '*.lastpass.com'
